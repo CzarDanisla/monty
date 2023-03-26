@@ -19,3 +19,4 @@ unsigned int count_stack(stack_t *stack)
 
 	return (lenght);
 }
+

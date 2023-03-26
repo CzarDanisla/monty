@@ -70,3 +70,4 @@ int check_digits(char *s)
 
 	return (status);
 }
+

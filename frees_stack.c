@@ -21,3 +21,4 @@ void frees_stack(void)
 		}
 	}
 }
+

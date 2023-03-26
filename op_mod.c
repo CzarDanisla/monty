@@ -28,3 +28,4 @@ void mod(stack_t **stack, unsigned int line_number)
 	*stack = temp->next;
 	free(temp);
 }
+
