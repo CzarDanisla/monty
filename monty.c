@@ -50,4 +50,3 @@ int main(int argn, char *args[])
 	fclose(fd);
 	return (0);
 }
-

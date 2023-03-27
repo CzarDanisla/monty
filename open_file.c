@@ -22,4 +22,3 @@ FILE *open_file(char *filename)
 
 	return (fd);
 }
-
